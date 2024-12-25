@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color:white;
+
+
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+
+}
+button{
+    background-color: orange;
+}
+
+#logo{
+    color: orange;
+    font-size:25px ;
+    margin:40px;
+
+}
+a{
+    margin:80px;
+    padding-top: 100px;
+    text-decoration: none;
+}
+
+
+#contentbox1{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 80px;
+    background-color: rgba(255, 0, 0, 0.5);
+    border:2px solid black;
+    display: inline-block;
+  
+}
+#contentbox2{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 80px;
+    background-color: rgba(0, 255,0, 0.5);
+    border:2px solid black;
+    display: inline-block;
+
+   
+}
+#contentbox3{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 80px;
+    background-color: rgba(0, 0,255, 0.5);
+    border:2px solid black;
+    display: inline-block;
+}
+
+footer{
+    background-color:#0f1111;
+    text-align: center;
+    color: white;
+ 
+}
