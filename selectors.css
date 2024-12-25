@@ -1,0 +1,24 @@
+*{
+    color:blue;
+}
+
+h1{
+    color: red;
+}
+
+button{
+    color: brown;
+}
+
+#headingtwo{
+    color:yellow;
+}
+
+#headingthree{
+    color:pink;
+}
+
+.myclass{
+    color:blueviolet;
+
+}
