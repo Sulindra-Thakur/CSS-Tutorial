@@ -1,0 +1,8 @@
+#one{
+    line-height: 3px;
+}
+#two{
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
