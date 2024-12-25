@@ -1,0 +1,53 @@
+p{
+    text-align: left;/*left=start and right=end*/
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+
+    text-decoration: blue underline;
+    
+    text-decoration: blue dotted underline;
+}
+
+a{
+    text-decoration: none;/*in everylink by default underline are
+    present so to avoid that underline this method apply*/
+}
+
+#h2{
+    font-weight: normal;
+}
+
+
+#h3{
+    font-weight: bolder ;
+}
+
+#h4{
+    font-weight: lighter;
+}
+
+#h2{
+    font-weight: 100;
+}
+
+
+#h3{
+    font-weight: 239;
+}
+
+#h4{
+    font-weight: 900;
+}
+
+#p1{
+    font-family: arial;
+}
+
+#p1{
+    font-family: 'Segoe UI';
+}
