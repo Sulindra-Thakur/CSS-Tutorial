@@ -26,8 +26,11 @@ button{
 #logo{
     color: orange;
     font-size:25px ;
+    margin:40px;
+
 }
 a{
     margin:80px;
+    padding-top: 100px;
     text-decoration: none;
 }

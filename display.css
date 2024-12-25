@@ -1,0 +1,40 @@
+/*div{
+    background-color: green;
+    display: inline;
+
+    button{
+    background-color: black;
+    color: red;
+    display: block;
+
+}
+}*/
+
+#one{
+    background-color: green;
+    width:100px;
+    height: 100px;
+    margin:25px;
+    padding:25px;
+    display: inline-block;/*it hidden item but it own space replace ny other*/
+    
+}
+#two{
+    background-color: red;
+    width:100px;
+    height: 100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+    visibility: hidden;/*it hidden item but still reserved it own space*/
+}
+
+#three{
+    background-color: yellow;
+    width:100px;
+    height: 100px;
+    margin:25px;
+    padding:25px;
+    display: inline-block;
+}
+
