@@ -1,0 +1,33 @@
+div{
+    height: 100px;
+    width:100px;
+    background-color: aqua;
+    
+    display: inline-block;
+}
+
+body{
+    background-image: url("bird_photo.jpg");
+    background-size: cover;
+
+}
+#box1{
+    background-image: url("bear_photo.jpg");
+    background-size: cover;
+}
+
+#box2{
+    background-image: url("bird_photo.jpg");
+    background-size: cover;
+}
+
+#box3{
+    background-image: url("fox_photo.jpg");
+    background-size: cover;
+}
+#box4{
+    background-image: url("small_photo.jpg");
+    background-size: cover;
+}
+
+
