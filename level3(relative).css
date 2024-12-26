@@ -1,0 +1,19 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size:10px;
+}
+
+#box2{
+    height: 50px;
+    width: 50px;
+    width: 30%;
+    background-color: yellow;
+    width: 5em;
+    width: 5rem;/*font size of the root like parent where they start in this code sulindra is the root*/
+    font-size: 2em;/*2times of parents font size*/
+
+    height: 100vh;/*according to screen height viewport height occurs*/
+    width: 50vw;/*according to screen width viewport width occurs*/
+}
