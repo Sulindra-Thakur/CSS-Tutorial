@@ -1,0 +1,19 @@
+div{
+    height: 150px;
+    width: 150px;
+    border: 3px solid white;
+    margin:3px;
+    display: inline-block;
+    background-image: url("love_photo.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right:0px;
+    top: 50px; 
+}
+
+body{
+    background-image: url("bear_photo.jpg");
+    background-size: cover;
+}
+ 
