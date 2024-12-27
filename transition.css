@@ -1,0 +1,28 @@
+div{
+    height: 100px;
+    width:100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+   
+    
+    transition: all;
+    transition-duration: 2s ; /*it take 2s to chnge color*/
+    transition-timing-function: steps(5); /*in this method our text it final text apper in 5step*/
+    transition-timing-function: ease-in; /*slowly solwly font size chnge*/
+    transition-delay: 1s; /*our trasition color chnge in 1s delay*/
+
+    /*--------------shorthand--------------*/
+    transition : all 2s ease-in-out 1s;
+     
+   
+}
+div:hover{/*hover means when mouse out in this div color change*/
+    background-color: red;
+    color: white;
+    font-size: 20px;/*it help to chnge our text in 20px then origin*/
+}
+
+div:active{ /*when we click and hold in div then it color chnge as user find color*/
+    background-color: pink;
+
+}
