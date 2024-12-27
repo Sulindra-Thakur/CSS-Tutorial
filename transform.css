@@ -1,0 +1,52 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+   
+   /* color: wheat;
+   transform: rotate(100deg);
+   
+   position: absolute;
+   top: 100px;
+   left: 100px;
+
+   transform: rotateY(200deg);
+
+   rotate: x 90deg;
+   rotate: y 90deg;
+   rotate: z 95eg;
+   transition: all 2s ease-in 1s;
+   transform: rotateX(200deg);
+
+   
+   transform: scale(2,1);
+   transform: scale(2);
+   transform: scale(2,1);
+transform: scaleY( 0.5);
+*/
+
+position: absolute;
+top: 100px;
+left: 100px;
+
+transition: all 2s ease-in;
+}
+
+div:hover{
+   /* background-color: yellow;
+    color: bisque;
+    font-size: 20px;
+     transform: scale(3);
+    transform: rotate(200deg);
+     transform: translateX(500px);
+   transform: translateY(500px);
+
+   transform: translateX(-500px);
+   transform: translateY(-500px);
+     transform: translate(100px,50px);
+    */
+  
+
+    transform: skew(90deg);
+}
